@@ -1,0 +1,1 @@
+ String homeScreen='/HomeScreen', animatedSplash='/AnimatedSplashScreen';
